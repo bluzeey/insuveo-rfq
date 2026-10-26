@@ -1,0 +1,27 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/gmail.addons.current.message.readonly",
+    "https://www.googleapis.com/auth/script.locale"
+  ],
+  "addOns": {
+    "common": {
+      "name": "Insuveo RFQ",
+      "logoUrl": "https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png",
+      "layoutProperties": {
+        "primaryColor": "#155eef",
+        "secondaryColor": "#f4f7fb"
+      }
+    },
+    "gmail": {
+      "contextualTriggers": [
+        {
+          "unconditional": {},
+          "onTriggerFunction": "onGmailMessage"
+        }
+      ]
+    }
+  }
+}
