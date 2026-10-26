@@ -1,0 +1,68 @@
+[
+  {
+    "insurer": "Tata AIG",
+    "product": "Standard Fire and Special Perils — Commercial",
+    "url": "https://www.tataaig.com/s3/Proposal_Forms_standard_fire_and_special_perils_commercial.pdf_10071eee9e.pdf",
+    "fields": [
+      "proposer",
+      "risk_location",
+      "occupancy",
+      "construction",
+      "building_age",
+      "claims_history",
+      "sum_insured_building",
+      "sum_insured_plant",
+      "sum_insured_stock",
+      "additional_insured",
+      "add_ons",
+      "prior_declination"
+    ],
+    "note": "Public commercial SFSP proposal reference; mapping indicative"
+  },
+  {
+    "insurer": "New India Assurance",
+    "product": "Standard Fire and Special Perils",
+    "url": "https://www.newindia.co.in/cms/26baa5ca-85aa-4025-9036-7da7c0aed7d0/Fire_pdf-converted.pdf?guest=true",
+    "fields": [
+      "proposer",
+      "risk_location",
+      "policy_period",
+      "occupancy",
+      "fire_protection",
+      "claims_history",
+      "sum_insured_building",
+      "sum_insured_plant",
+      "sum_insured_stock"
+    ],
+    "note": "Public fire proposal form; mapping indicative"
+  },
+  {
+    "insurer": "Generali Central",
+    "product": "Bharat Sookshma Udyam Suraksha",
+    "url": "https://www.generalicentralinsurance.com/downloads/other-insurance/gc-bharat-sookshma-udyam-suraksha/proposal-forms/gc-bharat-sookshma-udyam-suraksha-proposal-form.pdf",
+    "fields": [
+      "proposer",
+      "risk_location",
+      "construction",
+      "fire_protection",
+      "occupancy",
+      "sum_insured_building",
+      "sum_insured_plant",
+      "sum_insured_stock"
+    ],
+    "note": "Verify product eligibility; not assumed suitable for illustrative ₹25 crore case"
+  },
+  {
+    "insurer": "ICICI Lombard",
+    "product": "Standard Fire and Special Perils product information",
+    "url": "https://corporate.icicilombard.com/Portal/Standard_Fire_and_Special_perils_policy",
+    "fields": [
+      "risk_location",
+      "occupancy",
+      "sum_insured_building",
+      "sum_insured_plant",
+      "sum_insured_stock"
+    ],
+    "note": "Product page, not verified proposal form"
+  }
+]
